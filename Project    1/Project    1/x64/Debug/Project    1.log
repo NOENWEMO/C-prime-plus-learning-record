@@ -1,3 +1,5 @@
 ﻿  源.cpp
-D:\C学习\Project    1\Project    1\源.cpp(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
-  Project    1.vcxproj -> D:\C学习\Project    1\x64\Debug\Project    1.exe
+D:\Visual Studio 2022\Project    1\Project    1\源.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Visual Studio 2022\Project    1\Project    1\源.cpp(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\Visual Studio 2022\Project    1\Project    1\源.cpp(994,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Project    1.vcxproj -> D:\Visual Studio 2022\Project    1\x64\Debug\Project    1.exe
